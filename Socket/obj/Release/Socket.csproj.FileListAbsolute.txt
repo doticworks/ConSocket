@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Release\ConSocket.exe.config
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Release\ConSocket.exe
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Release\Socket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Release\ConSocket.exe
