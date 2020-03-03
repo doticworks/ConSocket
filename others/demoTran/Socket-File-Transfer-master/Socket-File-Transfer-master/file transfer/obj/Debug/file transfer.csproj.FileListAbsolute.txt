@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\bin\Debug\file transfer.exe
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\Main.resources
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.exe
+C:\Users\Administrator\Desktop\Socket\demoTran\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\docum\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Debug\Socket.exe.config
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Debug\Socket.exe
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Debug\Socket.pdb
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Debug\Socket.exe
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Debug\Socket.pdb

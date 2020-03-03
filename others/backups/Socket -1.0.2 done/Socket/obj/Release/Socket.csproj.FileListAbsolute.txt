@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Release\Socket.exe.config
+C:\Users\Administrator\Desktop\Socket\Socket\bin\Release\Socket.exe
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Release\Socket.exe
+C:\Users\Administrator\Desktop\Socket\Socket\obj\Release\Socket.csprojResolveAssemblyReference.cache
